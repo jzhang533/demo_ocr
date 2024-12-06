@@ -1,2 +1,2 @@
 # demo_ocr
-demonstrate how to use version encoder decoder model
+demonstrate how to use vision encoder decoder model
